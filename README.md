@@ -32,6 +32,8 @@ Users can customize drinks dynamically:
 - Ice level (yes / no)
 - Sugar level (none / 0% / 50% / 100%)
 
+PS. The toppings feature was not included because it duplicates functionality already provided by the sandwich customization.
+
 Each customization affects:
 - drink description
 - drink price
